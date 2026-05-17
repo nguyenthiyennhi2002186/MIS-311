@@ -61,9 +61,7 @@ Instead of deleting incomplete records, missing categorical values were replaced
 
 #### Quantity
 
-Because `Quantity` is a numerical variable, missing values were replaced using the **median** quantity value calculated in Excel =MEDIAN(G:G)
-
-The median quantity was **11**.
+Because `Quantity` is a numerical variable, missing values were replaced using the **median** quantity value calculated in Excel: =MEDIAN(G:G). The median quantity was **11**.
 
 <img width="941" height="204" alt="image" src="https://github.com/user-attachments/assets/c9fbe6ff-a0c8-472b-b657-267b29fd0cec" />
 
